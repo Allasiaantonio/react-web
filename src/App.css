@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+.rojo{
+  background-color: red;
+}
+
+.verde{
+  background-color: green;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.menu-horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;          /* Alinea los elementos en fila */
+  justify-content: center; /* Opcional: centra los elementos */
+}
+
+.menu-horizontal li {
+  margin: 0 15px;         /* Espaciado entre items */
+}
+
+.menu-horizontal a {
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  padding: 10px 15px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.menu-horizontal a:hover {
+  background-color: #0056b3;
+}
+
+.App-logo {
+  background-color: #02101fc7;
+  margin-top: 50px;
+}
+
+.App-body {
+  background-color: #404b574f;
+}
+
+body {
+    background-image: url('./components/imgs/book-table-img.jpg');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el espacio */
+    background-repeat: no-repeat; /* Evita que se repita */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Opcional: fija el fondo al hacer scroll */
+}   
+
+.App-main {
+  max-width: 50%;
+  max-height: 20%;
+}
+
+.App-wsp {
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.App-galeria {
+margin-left: 20%; 
+}
+
+/*
+html, body, div, span, applet, object,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b,
+u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby,
+section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;}
+*/
