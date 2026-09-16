@@ -72,8 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### ScreenShots
 
-![ImagenV1.png] https://github.com/Allasiaantonio/react-web/blob/main/react%20web%201.png
+https://github.com/Allasiaantonio/react-web/blob/main/react%20web%201.png
 
-![ImagenV2.png]  https://github.com/Allasiaantonio/react-web/blob/main/react%20web%202.png
+https://github.com/Allasiaantonio/react-web/blob/main/react%20web%202.png
 
-![ImagenV3.png]  https://github.com/Allasiaantonio/react-web/blob/main/react%20web%203.png
+https://github.com/Allasiaantonio/react-web/blob/main/react%20web%203.png
